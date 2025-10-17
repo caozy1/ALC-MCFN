@@ -11,5 +11,3 @@ Removing redundant content while preserving semantic coherence via adaptive long
 Fusing three key feature types (global, local, logical) to enhance text understanding.
 
 Improving classification accuracy with a channel-adaptive enhancement module (MCA-CorNet).
-
-The model is designed to support archival openness auditing, helping classify archives into "open" or "delayed-release" categories efficiently.
